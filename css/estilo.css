@@ -1,0 +1,48 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+background-color: #5ecbf0;
+}
+.bhome{
+margin-top: 40px;
+background-color:#00000000;
+border-radius:5px;
+border:2.5px solid #7575aa;
+display:inline-block;
+cursor:pointer;
+color:#7575aa;
+font-family:Arial;
+font-size:15px;
+font-weight:bold;
+padding:11px 23px;
+text-decoration:none;
+}
+.bhome:hover {
+background-color:#00000000;
+color:#558;
+border:2.5px solid #555588;
+}
+.thumb{
+height: 50px;
+width: 100px;
+}
+.buy{
+background-color:#00000000;
+border-radius:5px;
+border:2px solid #fff;
+display:inline-block;
+cursor:pointer;
+color:#fff;
+font-family:Arial;
+font-size:15px;
+font-weight:bold;
+padding:8px 18px;
+text-decoration:none;
+}
+.buy:hover {
+background-color:#00000000;
+color:#aaa;
+border:2px solid #aaa;
+}
